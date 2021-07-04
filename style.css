@@ -13,6 +13,7 @@ p {
 }
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 .mid {
     width: 120%;
@@ -35,4 +36,9 @@ section {
 .bannar {
     background-image: url(image/bannar.png);
     background-repeat: no-repeat;
+}
+.big {
+    background-image: url(image/right.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
