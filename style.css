@@ -1,5 +1,6 @@
 body{
     font-family: 'Otomanopee One', sans-serif;
+    margin: 0ch;
 }
 h1{
     font-size: 50px;
@@ -15,17 +16,23 @@ section {
 }
 .mid {
     width: 120%;
+    padding-left: 2%;
 }
 
 .mid img {
     width: 90%;
-    padding-left: 8%;
+    padding-left: 12%;
+    
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(#7952B3, #343A40);
+    background-image: linear-gradient(#d156fa, #6695c4);
     padding: 10px 40px;
     border-radius: 6px;
     color: cornsilk;
     font-weight: 400;
+}
+.bannar {
+    background-image: url(image/bannar.png);
+    background-repeat: no-repeat;
 }
