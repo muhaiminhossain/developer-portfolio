@@ -1,0 +1,23 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.indigo{
+    color: #FFC107;
+}
+p {
+    padding-right: 3%;
+}
+section {
+    display: flex;
+}
+.mid {
+    width: 120%;
+}
+
+.mid img {
+    width: 90%;
+    padding-left: 8%;
+}
