@@ -11,7 +11,7 @@ h1{
 p {
     padding-right: 3%;
 }
-section {
+.flexiable-container{
     display: flex;
     margin-bottom: 150px;
 }
