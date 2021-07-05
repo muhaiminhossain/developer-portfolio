@@ -42,3 +42,31 @@ p {
     background-repeat: no-repeat;
     background-position: right;
 }
+.exp-set{
+    width: 40%;
+    margin: 5%;
+    padding: 1%;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px gray;
+}
+.exp-box{
+    display: flex;
+    background-image: url(image/right\ -\ Copy.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.fontsize{
+    font-size: 36px;
+}
+#slice1 {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    
+}
+#slice2 {
+    border-left: 7px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+    
+}
